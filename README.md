@@ -1,6 +1,6 @@
-# Proje Adı
+# ALV
 
-Kısa proje açıklaması buraya yazılır.
+ABAP'ta (Advanced Business Application Programming) "ALV", "ABAP List Viewer" anlamına gelir. ALV, listeleri kullanıcı dostu ve etkileşimli bir şekilde görüntülemek için SAP tarafından sağlanan bir dizi standart işlevdir. Geliştiricilerin sofistike raporlar oluşturmasına ve tablolardaki verileri sıralama, filtreleme ve alt toplam alma gibi özelliklerle görüntülemesine olanak tanır.
 
 ## İçindekiler
 
@@ -10,6 +10,3 @@ Kısa proje açıklaması buraya yazılır.
 4. [KatContributingkılavuzları](#katkıda-bulunma)
 5. [Lisans](#lisans)
 
-## Kurulum
-
-Projenin nasıl kurulacağına dair adımları burada açıklayın.
