@@ -47,7 +47,7 @@ START-OF-SELECTION.
   ENDTRY.
 
   TRY .
-      lo_col = lo_cols->get_column( columnname = 'LAEDA11' ). "SÜTUN İSMİ DEĞİŞTİRİCİ
+      lo_col = lo_cols->get_column( columnname = 'LAEDA11' ). "SÜTUN GÖRÜNÜRLÜĞÜ
 
       lo_col->set_visible(
       value = if_salv_c_bool_sap=>false "invisible yapma kodu
