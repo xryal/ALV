@@ -43,6 +43,7 @@ START-OF-SELECTION.
   gs_fieldcat-edit = abap_true."editiblie kolon
   gs_fieldcat-do_sum = abap_true."ilgili kolonu toplama işlemine tabii tutar.
   APPEND gs_fieldcat TO gt_fieldcat.
+
   CLEAR gs_fieldcat.
   gs_fieldcat-fieldname = 'EBELP'.
   gs_fieldcat-seltext_s = 'Kalem'.
@@ -50,24 +51,28 @@ START-OF-SELECTION.
   gs_fieldcat-seltext_l = 'Kalem'.
   gs_fieldcat-key = abap_true.
   APPEND gs_fieldcat TO gt_fieldcat.
+
   CLEAR gs_fieldcat.
   gs_fieldcat-fieldname = 'BSTYP'.
   gs_fieldcat-seltext_s = 'belge tipi'.
   gs_fieldcat-seltext_m = 'belge tipi'.
   gs_fieldcat-seltext_l = 'belge tipi'.
   APPEND gs_fieldcat TO gt_fieldcat.
+
   CLEAR gs_fieldcat.
   gs_fieldcat-fieldname = 'BSART'.
   gs_fieldcat-seltext_s = 'belge türü'.
   gs_fieldcat-seltext_m = 'belge türü'.
   gs_fieldcat-seltext_l = 'belge türü'.
   APPEND gs_fieldcat TO gt_fieldcat.
+
   CLEAR gs_fieldcat.
   gs_fieldcat-fieldname = 'MATNR'.
   gs_fieldcat-seltext_s = 'malzeme'.
   gs_fieldcat-seltext_m = 'malzeme'.
   gs_fieldcat-seltext_l = 'malzeme'.
   APPEND gs_fieldcat TO gt_fieldcat.
+
   CLEAR gs_fieldcat.
   gs_fieldcat-fieldname = 'MENGE'.
   gs_fieldcat-seltext_s = 'miktar'.
