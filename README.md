@@ -6,7 +6,7 @@ ABAP'ta "ALV", "ABAP List Viewer" anlamına gelir. ALV, listeleri kullanıcı do
 
 1. [Salv](/Salv.abap)
 2. [Reuse ALV Manuel Field Catalog And Layout](/REUSE_ALV_manuel_fcat_layout.abap)
-3. [Reuse ALV Field Catalog Merge](/Reuse_ALV_Field_Catalog_Merge.abap)
+3. [Reuse ALV Field Catalog Manual V2](/Reuse_ALV_Manuel_Fcat_V2.abap)
 4. [KatContributingkılavuzları](#katkıda-bulunma)
 5. [Lisans](#lisans)
 
