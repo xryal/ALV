@@ -17,3 +17,9 @@ ABAP'ta  ALV, listeleri kullanıcı dostu ve etkileşimli bir şekilde görünt�
 ### EXCLUDING Nedir?
 Aşağıdaki bazı butonları gizlemeye yarayan yapıya denir.
 ![image](https://github.com/xryal/ALV/assets/81656700/7a29539b-bd31-41a2-8ee6-10b016e07b1f)
+
+### SORT Nedir?
+Kolon bazında Alvyi sıralar.
+
+### FILTER Nedir?
+Belirli Koşullara göre verileri filtreler.
