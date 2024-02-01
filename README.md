@@ -13,7 +13,7 @@ ABAP'ta  ALV, listeleri kullanıcı dostu ve etkileşimli bir şekilde görünt�
 7. [Reuse ALV pf status set](/7_REUSE_ALV_PF_STATUS.abap)
 8. [Reuse ALV User Command](/8_REUSE_ALV_USER_COMMAND.abap)
 9. [Reuse ALV Line Cell Color](/9_ALV_LINE_CELL_COLOR.abap)
-10. [Reuse ALV Excluding Sort Filter](/10_ALV_EXCLUDE_FILTER_SORT.abap)
+10. [Reuse ALV Excluding Sort Filter](/A10_ALV_EXCLUDE_FILTER_SORT.abap)
 ### EXCLUDING Nedir?
 Aşağıdaki bazı butonları gizlemeye yarayan yapıya denir.
 ![image](https://github.com/xryal/ALV/assets/81656700/7a29539b-bd31-41a2-8ee6-10b016e07b1f)
