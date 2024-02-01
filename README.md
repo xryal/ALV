@@ -14,3 +14,6 @@ ABAP'ta  ALV, listeleri kullanıcı dostu ve etkileşimli bir şekilde görünt�
 8. [Reuse ALV User Command](/8_REUSE_ALV_USER_COMMAND.abap)
 9. [Reuse ALV Line Cell Color](/9_ALV_LINE_CELL_COLOR.abap)
 10. [Reuse ALV Excluding Sort Filter](/9_ALV_EXCLUDING_SORT_FILTER.abap)
+### EXCLUDING Nedir?
+Aşağıdaki bazı butonları gizlemeye yarayan yapıya denir.
+![image](https://github.com/xryal/ALV/assets/81656700/7a29539b-bd31-41a2-8ee6-10b016e07b1f)
