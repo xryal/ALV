@@ -130,10 +130,10 @@ FORM display_alv.
       t_outtab           = gt_list.
 ENDFORM.
 *&---------------------------------------------------------------------*
-*& Form top_of_page
+*& Form top_of_page_deneme
 *&---------------------------------------------------------------------*
 FORM top_of_page_deneme.
-  DATA: lt_header TYPE slis_t_listheader,
+  DATA: lt_header TYPE slis_t_listheader, "slis_listheader'dan türeyen tablo ve structure yapısıyla çalışır bu top of page ve end of list yapıları..
         ls_header TYPE slis_listheader.
 
   DATA: lv_lines TYPE i,
@@ -166,8 +166,6 @@ FORM top_of_page_deneme.
               into ls_header-info
               SEPARATED BY ' '.
   APPEND ls_header TO lt_header.
-
-
 
   CALL FUNCTION 'REUSE_ALV_COMMENTARY_WRITE'
     EXPORTING
@@ -178,7 +176,7 @@ ENDFORM.
 *& Form end_of_list_deneme
 *&---------------------------------------------------------------------*
 FORM end_of_list_deneme.
-  DATA: lt_header TYPE slis_t_listheader,
+  DATA: lt_header TYPE slis_t_listheader, 
         ls_header TYPE slis_listheader.
 
   DATA: lv_lines TYPE i,
@@ -211,8 +209,6 @@ FORM end_of_list_deneme.
               into ls_header-info
               SEPARATED BY ' '.
   APPEND ls_header TO lt_header.
-
-
 
   CALL FUNCTION 'REUSE_ALV_COMMENTARY_WRITE'
     EXPORTING
