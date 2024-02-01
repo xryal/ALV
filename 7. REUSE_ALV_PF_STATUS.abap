@@ -128,5 +128,5 @@ ENDFORM.
 *& Form pf_status_set
 *&---------------------------------------------------------------------*
 FORM pf_status_set using p_extab type slis_t_extab.
-  set PF-STATUS 'ZSTANDARD'.
+  set PF-STATUS 'ZSTANDARD'. "PROGRAMDAKİ GUİ STATUSUN İSMİ
 ENDFORM.      
