@@ -10,3 +10,4 @@ ABAP'ta  ALV, listeleri kullanıcı dostu ve etkileşimli bir şekilde görünt�
 4. [Reuse ALV Field Catalog Merge Function](/4_REUSE_ALV_Fieldcat_Merge.abap)
 5. [Reuse ALV CALLBACK-IT EVENTS](/5_REUSE_Alv_Callback_Events.abap)
 6. [Reuse ALV TOP_OF_PAGE-END_OF_LIST](/6_REUSE_ALV_TOP_OF_PAGE-END_OF_LIST.abap)
+7. [Reuse ALV pf status set](/7_REUSE_ALV_PF_STATUS.abap)
