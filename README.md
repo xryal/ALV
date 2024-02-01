@@ -12,3 +12,4 @@ ABAP'ta  ALV, listeleri kullanıcı dostu ve etkileşimli bir şekilde görünt�
 6. [Reuse ALV TOP_OF_PAGE-END_OF_LIST](/6_REUSE_ALV_TOP_OF_PAGE-END_OF_LIST.abap)
 7. [Reuse ALV pf status set](/7_REUSE_ALV_PF_STATUS.abap)
 8. [Reuse ALV User Command](/8_REUSE_ALV_USER_COMMAND.abap)
+9. [Reuse ALV Line Cell Color](/9_ALV_LINE_CELL_COLOR.abap)
