@@ -27,8 +27,11 @@ ALV'yi Belirli Koşullara göre verileri filtreler.
 11. [Reuse ALV SAVE VARIANT](/A11_REUSE_ALV_VARIANT.abap)
 ### SAVE Nedir?
 
-ALV üzerinde yaptığımız düzenleme ve değişiklikleri kaydeden bir yapıdır kullanabilmemizi sağlayan bir yapıdır açılınca 3 adet buton gelir ve bu butonlara alevlerin görünümlerini değiştirip varyantlar kaydedebiliriz.
+ALV üzerinde yaptığımız düzenleme ve değişiklikleri kaydeden bir yapıdır kullanabilmemizi sağlayan bir yapıdır
+açılınca 3 adet buton gelir ve bu butonlara alevlerin görünümlerini değiştirip varyantlar kaydedebiliriz.
+
 I_SAVE  = 'X' verilirse her kullanıcı bu kayıt varyantlarından etkilenir.
 I_SAVE  = 'U' verilirse  user bazlı kayıt gerççekleştirir.
 I_SAVE  = 'A' verilirse kullanıcı özgü varyant kayıt da edilebilir her kullanıcı için de varyant kayıt edilebilir bunun seçimini kullanıcıya bırakır.
+
 ön ayar çalışıtırılır çalıştırılmaz bu varyant çalışsın anlamına gelmektedir
