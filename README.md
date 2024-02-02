@@ -31,7 +31,7 @@ ALV üzerinde yaptığımız düzenleme ve değişiklikleri kaydeden bir yapıd�
 açılınca 3 adet buton gelir ve bu butonlara alevlerin görünümlerini değiştirip varyantlar kaydedebiliriz.
 
 I_SAVE  = 'X' verilirse her kullanıcı bu kayıt varyantlarından etkilenir.                                                      
-I_SAVE  = 'U' verilirse  user bazlı kayıt gerççekleştirir.
+I_SAVE  = 'U' verilirse  user bazlı kayıt gerççekleştirir.                                                            
 I_SAVE  = 'A' verilirse kullanıcı özgü varyant kayıt da edilebilir
 her kullanıcı için de varyant kayıt edilebilir bunun seçimini kullanıcıya bırakır.
 
