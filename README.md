@@ -22,7 +22,7 @@ Aşağıdaki bazı butonları gizlemeye yarayan yapıya denir.
 Kolon bazında Alvyi sıralar.
 
 ### FILTER Nedir?
-Belirli Koşullara göre verileri filtreler.
+ALV'yi Belirli Koşullara göre verileri filtreler.
 
 11. [Reuse ALV SAVE VARIANT](/A11_REUSE_ALV_VARIANT.abap)
 ### SAVE Nedir?
