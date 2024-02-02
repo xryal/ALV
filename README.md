@@ -24,7 +24,7 @@ Kolon bazında Alvyi sıralar.
 ### FILTER Nedir?
 Belirli Koşullara göre verileri filtreler.
 
-11. [Reuse ALV SAVE VARIANT DEFAULT](/A10_ALV_EXCLUDE_FILTER_SORT.abap)
+11. [Reuse ALV SAVE VARIANT](/A11_REUSE_ALV_VARIANT.abap)
 ### SAVE Nedir?
 
 ALV üzerinde yaptığımız düzenleme ve değişiklikleri kaydeden bir yapıdır kullanabilmemizi sağlayan bir yapıdır açılınca 3 adet buton gelir ve bu butonlara alevlerin görünümlerini değiştirip varyantlar kaydedebiliriz.
